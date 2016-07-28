@@ -1,12 +1,10 @@
-book_filename: "amg"
+book_filename: "appled_environmental_statistics"
 chapter_name: ""
-before_chapter_script: "scripts/before_chapter.R"
-after_chapter_script: "scripts/after_chapter.R"
 rmd_files: [ 
   "index.rmd",
     "r_ecosystem.rmd", "datatypes.rmd", "r_containers.rmd", "r_programming.rmd",
     "graphics.rmd", "reproducable_research.rmd",
   "part_backmatter.rmd", 
-    "references.rmd", "data_sets.rmd", "about_the_author.rmd"
+    "references.rmd", "data_sets.rmd", "about_the_author.rmd", "chapter_template.rmd"
 ]
 

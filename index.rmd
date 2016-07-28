@@ -7,7 +7,7 @@ output: bookdown::gitbook
 github-repo: "dyerlab/envstats"
 ---
 
-# Applied Environmental Statistics
+# Applied Environmental Statistics {- .white_letters}
 
 
 Build Date: **`r date()`**

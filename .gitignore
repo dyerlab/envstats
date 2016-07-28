@@ -34,3 +34,5 @@ vignettes/*.pdf
 .Rproj.user
 
 .git/*
+_book/
+_bookdown_files/
