@@ -3,7 +3,7 @@ chapter_name: ""
 rmd_files: [ 
   "index.rmd",
     "r_ecosystem.rmd", "datatypes.rmd", "r_containers.rmd", "r_programming.rmd",
-    "graphics.rmd", "reproducable_research.rmd",
+    "graphics.rmd", "reproducable_research.rmd", "markdown.rmd",
   "part_backmatter.rmd", 
     "references.rmd", "data_sets.rmd", "about_the_author.rmd", "chapter_template.rmd"
 ]

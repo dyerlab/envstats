@@ -1,0 +1,7 @@
+# Markdown
+
+This entire book is written what is called Markdown---actually a variant of markdown called RMarkdown as it includes R code and analyses directly in the text.  Markdown is a text-based approach for creating content that can be turned into a wide array of output types.  For example, the text of this book is written entirely as *.rmd files (rmarkdown) and includes the raw text, headers and other formatted content, R Code, the output of R code (in both print out forms, graphdis, and in the body of text), images, links, equations, etc.  The collection of all this content can be turned into PDF, DOCX, HTML, XML, DocBOOK, or a wide array of other formats, all from the same exact source.  
+
+Being entirely text based has a number of advantages:  
+- It is easily stored on a version control system like github.
+- Content can be accessed by ANYONE, independent of which version of the latest Word Processor 
